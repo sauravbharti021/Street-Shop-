@@ -4,4 +4,13 @@
     column-gap: 10px;
     row-gap: 50px;
 
+  
+  
 }
+.category-title {
+    display: flex;
+    justify-content: space-around;
+    font-size: 38px;
+    margin-bottom: 25px;
+    cursor: pointer;
+  }
